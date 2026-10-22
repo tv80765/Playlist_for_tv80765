@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 22/10/2026, 02:41:37
+# Generated: 22/10/2026, 05:54:39
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,42 +8599,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.7652622524540386" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",League One 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249805_english_hls_ba646578b745190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792695032~_GO=Generated~acl=/mumbai/4249805_english_hls_ba646578b745190_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b7e0b01e-695b-42~Signature=ASgJGVB62jl96mhfXCYGBXLxzlXNxz6Hk_e9INpTCg57xf8JPyzCdkC9xkdZcDtu6wTeC3o3nhSZ0CNSvCRZ0xeuxAII
-
-#EXTINF:-1 tvg-id="ev-0.9819697278167371" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792698721~_GO=Generated~acl=/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_86ea3497-b379-46~Signature=ASgJGVAgCiwV4PQLyjtQUcPPvhy3zByffFK4sxlBaFg-H9-CyUdD2li9I9Dq_kYydu0lrfgetls_Hupavw8euuToIEIJ
-
-#EXTINF:-1 tvg-id="ev-0.2739665740954432" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg",Bayern Munchen vs Arsenal - 22 Oct 2026 [ENG] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.16237690162856222" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg",Bayern Munchen vs Arsenal - 22 Oct 2026 [HIN] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.08360221987649685" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg",Bayern Munchen vs Arsenal - 22 Oct 2026 [TAM] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.22223030945205002" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg",Bayern Munchen vs Arsenal - 22 Oct 2026 [TEL] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.389132091075136" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg",Bayern Munchen vs Arsenal - 22 Oct 2026 [KAN] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.9692121656274619" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125251138819_UCL2627_MD3_Real_Madrid_vs_Leipzig_landscape_thumb.jpg",Real Madrid vs Leipzig - 22 Oct 2026 [ENG] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.13375142626958003" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125307242519_UCL2627_MD3_Inter_vs_Shakhtar_landscape_thumb.jpg",Inter vs Shakhtar - 22 Oct 2026 [ENG] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.09863146135659151" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125373739619_UCL2627_MD3_Club_Brugge_vs_Lens_landscape_thumb.jpg",Club Brugge vs Lens - 22 Oct 2026 [ENG] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.7370850992776883" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125354964819_UCL2627_MD3_Aston_Villa_vs_Viking_landscape_thumb.jpg",Aston Villa vs Viking - 22 Oct 2026 [ENG] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.8125466521581305" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125395357019_UCL2627_MD3_Real_Betis_vs_Feyenoord_landscape_thumb.jpg",Real Betis vs Feyenoord - 22 Oct 2026 [ENG] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
-
-#EXTINF:-1 tvg-id="ev-0.11498701268335765" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125330596919_UCL2627_MD3_SportingCP_vs_LASK_landscape_thumb.jpg",Sporting CP vs LASK - 22 Oct 2026 [ENG] - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659052~acl=/*~id=57493468706448349477416601173669~hmac=b453f5fda8f5e945046ad66289b4d40f2ce8c757fc3c359fb266fea11227ccbf
+#EXTINF:-1 tvg-id="ev-0.12889629366847577" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",2026/27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056329761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792711464~_GO=Generated~acl=/mumbai/4249665_english_hls_910773056329761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c1e931dc-9758-45~Signature=ASgJGVCv8yjFKIS9KcTs16MsTYY4TSHjszA48MXf8R5pxpkhhf9kmq1z1jRSo3Hv3SqhUX8R3eNGB5U6qycLzUiQUjsH
 
