@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 24/10/2026, 23:17:37
+# Generated: 25/10/2026, 01:38:26
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,33 +8599,24 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.7356520999638628" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250485_53130_EMR_AJM_fc-web_1792412929328.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL
+#EXTINF:-1 tvg-id="ev-0.169286949340278" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250109_53017_ALM_RO_FC-Web.png",LALIGA Hypermotion 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4250109_english_hls_d7fc37815c58698_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792954008~_GO=Generated~acl=/mumbai/4250109_english_hls_d7fc37815c58698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_86d9e175-c5a0-47~Signature=ASgJGVB4Uky87Ln9Y0iHaiiKJoNrg9Z13ATv1wxdN04HGw0W48Uu7_n3a6npWYpaolPV6NmUMdd2quHuAJIBBB4_AbsK
 
-#EXTINF:-1 tvg-id="ev-0.8487841552391707" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249201_53038_BHA-W_WHU-W_fc-web.jpg",Barclays Women's Super League 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249201_english_hls_0b616a65a763610_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792944165~_GO=Generated~acl=/mumbai/4249201_english_hls_0b616a65a763610_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_717baf72-1ac2-42~Signature=ASgJGVARYDUq3qQ2taNotnhwQ2jxUTztXj306soA0xTl6k5IHC5LDqsQimqAgVxdRMNrxpIDiXU1UJTNrnCeLyZ7v3UG
-
-#EXTINF:-1 tvg-id="ev-0.20397895235892372" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",BWF Super 750 - French Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792942318~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1b8e9787-3906-43~Signature=ASgJGVB_dq5PkF9SZW9ewv7L1wVp9bzUrdDRcHneOoFfNAP6aVvoPywc_JkkPg8JrpJKyhNqwV4bXMbk5aaqG17yxPMI
-
-#EXTINF:-1 tvg-id="ev-0.9257688486262978" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",ATP 250 - BNP Paribas Fortis European Open [English]
-https://in-mc-flive.fancode.com/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792936139~_GO=Generated~acl=/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_32ff63b6-517a-43~Signature=ASgJGVCvTn9OEUP_Ly-Jt38AvYWRgSw2gyzTr267cSnYHJlibFmuPE7QL_VKYj-ECXxz7e5XJR3ILW3TuTLuilvlVhcE
-
-#EXTINF:-1 tvg-id="ev-0.2111994381719492" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",Butterfield Bermuda Championship 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.9233973540158615" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",Butterfield Bermuda Championship 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250353_english_hls_29318dfe2b32750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792943544~_GO=Generated~acl=/mumbai/4250353_english_hls_29318dfe2b32750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_54646a07-0128-41~Signature=ASgJGVBbG3diLiQuqVpd2Ymd9iWa6mWkLjV5bD6SGbKMsKDb-RqpsJxy-rEoiAvRbIHcdv5p2i6VLW5Iy9uY2wTGKTIA
 
-#EXTINF:-1 tvg-id="ev-0.37820740687109333" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG] - UFC 333 - Volkanovski vs Evloev
-https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270
+#EXTINF:-1 tvg-id="ev-0.6192326559281908" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG] - UFC 333 - Volkanovski vs Evloev
+https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792915352~acl=/*~id=29332997183860182005100965193980~hmac=8a0c16d0365d06ac8a0d74f2acf02d563dc86276ec729f5e68aee319cc1b6b39
 
-#EXTINF:-1 tvg-id="ev-0.37078769520187704" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN] - UFC 333 - Volkanovski vs Evloev
-https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270
+#EXTINF:-1 tvg-id="ev-0.2531294845998825" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN] - UFC 333 - Volkanovski vs Evloev
+https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792915352~acl=/*~id=29332997183860182005100965193980~hmac=8a0c16d0365d06ac8a0d74f2acf02d563dc86276ec729f5e68aee319cc1b6b39
 
-#EXTINF:-1 tvg-id="ev-0.5621750248960208" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM] - UFC 333 - Volkanovski vs Evloev
-https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270
+#EXTINF:-1 tvg-id="ev-0.6223270931973769" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM] - UFC 333 - Volkanovski vs Evloev
+https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792915352~acl=/*~id=29332997183860182005100965193980~hmac=8a0c16d0365d06ac8a0d74f2acf02d563dc86276ec729f5e68aee319cc1b6b39
 
-#EXTINF:-1 tvg-id="ev-0.8176616083414774" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL] - UFC 333 - Volkanovski vs Evloev
-https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270
+#EXTINF:-1 tvg-id="ev-0.3574804857733369" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL] - UFC 333 - Volkanovski vs Evloev
+https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792915352~acl=/*~id=29332997183860182005100965193980~hmac=8a0c16d0365d06ac8a0d74f2acf02d563dc86276ec729f5e68aee319cc1b6b39
 
-#EXTINF:-1 tvg-id="ev-0.08838160568672715" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN] - UFC 333 - Volkanovski vs Evloev
-https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270
+#EXTINF:-1 tvg-id="ev-0.9571766235766039" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN] - UFC 333 - Volkanovski vs Evloev
+https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792915352~acl=/*~id=29332997183860182005100965193980~hmac=8a0c16d0365d06ac8a0d74f2acf02d563dc86276ec729f5e68aee319cc1b6b39
 
