@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 27/10/2026, 05:43:23
+# Generated: 27/10/2026, 11:27:13
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,6 +8599,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.9259062315682987" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793102480~acl=/*~id=82596422978710937455431609902800~hmac=9e632dd87adc6e2dfa8c8425809e742b094ab482d63052efa5ba0f9078f551f3
+#EXTINF:-1 tvg-id="ev-0.8881568512799537" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250517_english_hls_c6aadfde282620_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793164691~_GO=Generated~acl=/mumbai/4250517_english_hls_c6aadfde282620_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2fd_watcho_dfb4ee5c-2026-4a~Signature=ATFKiJsQpElYsVwEsYUdxapFIxqwU9D07IBxfgfZUclJ2vVHKssUyYTjJrBSziwDEkZ0ESbe7uCn9OQo5grCejdbzpoP
+
+#EXTINF:-1 tvg-id="ev-0.5829855264156697" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250532_53137_DLD_UTS_FC-Web.png",Northern Artist Champions League 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L
+
+#EXTINF:-1 tvg-id="ev-0.433052855518804" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG] - India A Tour of New Zealand
+https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793123713~acl=/*~id=44022112409620229976917230288855~hmac=d128f40d70012d95ca991004c76be850a623760a6e1280c4f0deee741ad176c7
 
