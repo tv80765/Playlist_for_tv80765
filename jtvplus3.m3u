@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 1/11/2026, 00:33:33
+# Generated: 1/11/2026, 04:30:34
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8597,15 +8597,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.903287188550125" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250497_53130_SHA_EMB_fc-web_1792412929424.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M
+#EXTINF:-1 tvg-id="ev-0.8698024528747128" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",VidantaWorld Mexico Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793562714~_GO=Generated~acl=/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f37_watcho_5ee009d2-859a-45~Signature=ATFKiJuJVzPxufG55-ErhPL7HzBPCt7ejevo4H9eo3JSDQ6k5vlGyJGR4ggAu5kVwICoffPnPNdQ12h495mRccGw7zMJ
 
-#EXTINF:-1 tvg-id="ev-0.8608055322863872" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250273_53025_AHS_AFF_FC-Web.png",Roshn Saudi League 2026-2027 [English]
-https://in-mc-flive.fancode.com/mumbai/4250273_english_hls_080636bc3c54694_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793555313~_GO=Generated~acl=/mumbai/4250273_english_hls_080636bc3c54694_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1db_watcho_8d1bb96c-4a9b-41~Signature=ATFKiJvr9tzUayZRKKroVhGaLJamfxKx18_RhrW92zaMywNkpa7mvpfI6D2R2YuBMWYu_8kf6VQicgmsdjZF4UupxQAK
-
-#EXTINF:-1 tvg-id="ev-0.10149465315189521" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",BWF Super 500 - Hylo Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793537478~_GO=Generated~acl=/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/*~SessionID=fc-app_sportsguruand_372_watcho_de46c727-146b-49~Signature=ATFKiJuY5pUJl-7rfzVhmIdLv1yB6AaUx5bTpNJfNaaICPrekqPOdtUX3on0dARMrDQJT0pJEQ_ez-NzCQ_Tb8HioNsD
-
-#EXTINF:-1 tvg-id="ev-0.3005998943232271" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alex-de-Minaur-web-match-card.png",ATP 500 - Erste Bank Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249640_english_hls_4f90393d7175429_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793541162~_GO=Generated~acl=/mumbai/4249640_english_hls_4f90393d7175429_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a94_watcho_fc10f517-9ef5-43~Signature=ATFKiJvnMCVcZBbdbxfss0ZnQA3EE5UB_RlNdL9l_QQVTAKvCpG4QmXR8w8gW1wQJ8IB6N3-vejTNpEPChW_LFjk620L
+#EXTINF:-1 tvg-id="ev-0.8530208372127254" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg",2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG] - India A Tour of New Zealand
+https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793530674~acl=/*~id=74926354826772543088087175275364~hmac=f5525a0fc451aebeaabdae978b1acfdf441c90e37621f6c585b361aac56bc50d
 
