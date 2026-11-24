@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 24/11/2026, 13:40:45
+# Generated: 25/11/2026, 01:24:38
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8775,18 +8775,36 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.09397089295619121" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",India A vs UAE - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16
+#EXTINF:-1 tvg-id="ev-0.8008433053932219" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",Arsenal vs Borussia Dortmund - 25 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
 
-#EXTINF:-1 tvg-id="ev-0.3083422142909108" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",India A vs UAE - 24 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16
+#EXTINF:-1 tvg-id="ev-0.3581091665780135" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",Arsenal vs Borussia Dortmund - 25 Nov 2026 [HIN] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
 
-#EXTINF:-1 tvg-id="ev-0.1049440305037842" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",India A vs UAE - 24 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16
+#EXTINF:-1 tvg-id="ev-0.033607009287560774" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",Arsenal vs Borussia Dortmund - 25 Nov 2026 [TAM] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
 
-#EXTINF:-1 tvg-id="ev-0.8241570950948465" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",India A vs UAE - 24 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16
+#EXTINF:-1 tvg-id="ev-0.18591470641631136" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",Arsenal vs Borussia Dortmund - 25 Nov 2026 [TEL] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
 
-#EXTINF:-1 tvg-id="ev-0.16636241418915554" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",India A vs UAE - 24 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16
+#EXTINF:-1 tvg-id="ev-0.24667868866124332" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",Arsenal vs Borussia Dortmund - 25 Nov 2026 [KAN] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
+
+#EXTINF:-1 tvg-id="ev-0.9672565700236546" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795318910325444_UCL26_MD5_Man_City_vs_Napoli_landscape_thumb.jpg",Manchester City vs Napoli - 25 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
+
+#EXTINF:-1 tvg-id="ev-0.5225511746515357" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795315004894444_UCL26_MD5_Real_Madrid_vs_PSV_landscape_thumb.jpg",Real Madrid vs PSV Eindhoven - 25 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
+
+#EXTINF:-1 tvg-id="ev-0.38555675876254636" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330600882198_UCL26_MD5_Como_vs_Athens_landscape_thumb.jpg",Como 1907 vs AEK Athens - 25 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
+
+#EXTINF:-1 tvg-id="ev-0.918891656766004" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795326333966198_UCL26_MD5_RB_Leipzig_vs_RC_Lens_landscape_thumb.jpg",RB Leipzig vs RC Lens - 25 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
+
+#EXTINF:-1 tvg-id="ev-0.03857782597580306" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320669674444_UCL26_MD5_Feyenoord_vs_Porto_landscape_thumb.jpg",Feyenoord vs FC Porto - 25 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
+
+#EXTINF:-1 tvg-id="ev-0.28106953175308813" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330176307198_UCL26_MD5_Bratislava_vs_Real_Betis_landscape_thumb.jpg",Slovan Bratislava vs Real Betis - 25 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2
 
