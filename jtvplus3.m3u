@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 27/11/2026, 22:41:27
+# Generated: 28/11/2026, 06:30:29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8775,6 +8775,21 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.7973523824739019" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795842134~acl=/*~id=87152403941147825382075667739045~hmac=eadd983188990ec332da8e169ece37baa68750b617b5ccd1ac7f4a89c035b578
+#EXTINF:-1 tvg-id="ev-0.1498265812378271" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg",2nd Test - Day 2 - 28 Nov 2026 [ENG] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795870631~acl=/*~id=89277689336598813862945798441058~hmac=d001d7874081e1b81d3fb5c65b5d4b31ea0c3a0014bf5fc348a8d86d998e9041
+
+#EXTINF:-1 tvg-id="ev-0.18175491917135844" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg",2nd Test - Day 2 - 28 Nov 2026 [HIN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795870631~acl=/*~id=89277689336598813862945798441058~hmac=d001d7874081e1b81d3fb5c65b5d4b31ea0c3a0014bf5fc348a8d86d998e9041
+
+#EXTINF:-1 tvg-id="ev-0.55442902557796" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg",2nd Test - Day 2 - 28 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795870631~acl=/*~id=89277689336598813862945798441058~hmac=d001d7874081e1b81d3fb5c65b5d4b31ea0c3a0014bf5fc348a8d86d998e9041
+
+#EXTINF:-1 tvg-id="ev-0.2119857880612649" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg",2nd Test - Day 2 - 28 Nov 2026 [TEL] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795870631~acl=/*~id=89277689336598813862945798441058~hmac=d001d7874081e1b81d3fb5c65b5d4b31ea0c3a0014bf5fc348a8d86d998e9041
+
+#EXTINF:-1 tvg-id="ev-0.3825235266743082" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg",2nd Test - Day 2 - 28 Nov 2026 [KAN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795870631~acl=/*~id=89277689336598813862945798441058~hmac=d001d7874081e1b81d3fb5c65b5d4b31ea0c3a0014bf5fc348a8d86d998e9041
+
+#EXTINF:-1 tvg-id="ev-0.8371658716402544" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622259556554_DP_World_Tour_BMW_PGA_day3_landscape_thumb.jpg",BMW Australian PGA Championship - Day 3 - 28 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Golf_BMW2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795870631~acl=/*~id=89277689336598813862945798441058~hmac=d001d7874081e1b81d3fb5c65b5d4b31ea0c3a0014bf5fc348a8d86d998e9041
 
